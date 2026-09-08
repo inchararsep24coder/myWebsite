@@ -1,0 +1,6 @@
+{
+  "name": "Inchara.R - AI & Data Science Portfolio",
+  "description": "Portfolio for Inchara.R, an Artificial Intelligence & Data Science student at REVA University showcasing skills, projects, and coursework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
