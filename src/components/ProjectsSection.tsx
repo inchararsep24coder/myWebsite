@@ -479,6 +479,17 @@ export const ProjectsSection: React.FC = () => {
                   <span>Embedded IoT Concept</span>
                 </div>
               </div>
+              <div className="pt-3">
+  <a
+    href="https://github.com/inchararsep24coder/smart-lock-iot"
+    target="_blank"
+    rel="noreferrer"
+    className="inline-flex items-center gap-1.5 text-xs font-semibold text-[#1E1E24] hover:text-[#705860] hover:underline"
+  >
+    <span>View on GitHub Repository</span>
+    <ChevronRight className="w-3.5 h-3.5" />
+  </a>
+</div>
 
               {/* Right Column: Device Telemetry Card */}
               <div className="lg:col-span-5">
