@@ -505,6 +505,7 @@ export const ProjectsSection: React.FC = () => {
                       Node Online
                     </span>
                   </div>
+                  
 
                   {/* Interactive Lock State Box */}
                   <div className="py-6 flex flex-col items-center justify-center text-center">
