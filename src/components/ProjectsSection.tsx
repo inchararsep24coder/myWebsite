@@ -478,7 +478,7 @@ export const ProjectsSection: React.FC = () => {
                   <span className="w-2 h-2 rounded-full bg-[#8E44AD]"></span>
                   <span>Embedded IoT Concept</span>
                 </div>
-              </div>
+              
               <div className="pt-3">
   <a
     href="https://github.com/inchararsep24coder/smart-lock-iot"
