@@ -87,7 +87,11 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onScrollTo }) => {
                 <div className="font-mono text-2xl sm:text-3xl font-bold text-[#1E1E24] tracking-tight">
                   03<span className="text-sm font-sans font-normal text-[#5C5B66]">rd</span>
                 </div>
+
                 <div className="text-xs text-[#5C5B66] font-medium">Semester B.Tech.</div>
+
+                
+
               </div>
 
               <div className="space-y-1">
@@ -137,7 +141,10 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onScrollTo }) => {
                   <span className="text-[#705860]">"name"</span>: <span className="text-[#27AE60] bg-[#F7D6E0]/30 px-1 rounded">"Inchara.R"</span>,
                 </div>
                 <div className="pl-4">
+
                   <span className="text-[#705860]">"program"</span>: <span className="text-[#27AE60] bg-[#1E1E24] text-white px-1.5 py-0.5 rounded text-[12px]">"B.Tech. in AIDS"</span>,
+
+
                 </div>
                 <div className="pl-4">
                   <span className="text-[#705860]">"stage"</span>: <span className="text-[#27AE60]">"3rd Semester"</span>,

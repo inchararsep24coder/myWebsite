@@ -477,7 +477,9 @@ export const ProjectsSection: React.FC = () => {
                 <div className="pt-2 flex items-center gap-2 text-xs text-[#5C5B66] font-mono">
                   <span className="w-2 h-2 rounded-full bg-[#8E44AD]"></span>
                   <span>Embedded IoT Concept</span>
-                </div><div className="pt-3">
+                </div>
+              </div>
+              <div className="pt-3">
   <a
     href="https://github.com/inchararsep24coder/smart-lock-iot"
     target="_blank"
